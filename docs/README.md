@@ -1,6 +1,7 @@
 # WeatherForecast
 - [Expo](https://expo.io/)を利用して作った天気予報アプリです
 - [WEB+DB PRESS Vol.102](http://gihyo.jp/magazine/wdpress/archive/2018/vol102)の記事を参考にさせていただいております
+- 記事中のサンプルコードは[こちら](https://github.com/mickamy/WeatherForecast)です
 
 ![](images/Simulator Screen Shot - iPhone 8 - 2017-12-29 at 13.09.41.png)
 
